@@ -8,4 +8,4 @@ path_to_gcs_key = "/home/donrawat/terraform-metal-vsphere/storage-reader-key.jso
 relative_path_to_gcs_key = "storage-reader-key.json"
 vcenter_iso_name = "VMware-VCSA-all-7.0.3-19234570.iso"
 facility = "sg4"
-esxi_size = "c3.small.x86"
+esxi_size = "c3.medium.x86"
